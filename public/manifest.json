@@ -1,0 +1,16 @@
+{
+  "name": "InventoryTracker",
+  "short_name": "InvTracker",
+  "description": "Offline-First Smart Inventory Tracker PWA",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f7fa",
+  "theme_color": "#1a1a2e",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
